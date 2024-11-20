@@ -1,0 +1,3 @@
+﻿Issue Key,Summary,Description,Priority,Assignee,Status
+EP101,Complete Login Page,Add the login functionality for user using jwt webtoken,Medium,Mayuri Ganore,To do 
+EP102,Complete Signup Page,Add the signup functionality for user using jwt webtoken,Medium,Shantanu Pimpale,To do 
